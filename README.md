@@ -33,6 +33,21 @@ Once you have access to data, you can start Data Exploration. This is a phase fo
 
 Click [here](https://ibm-cloud-architecture.github.io/refarch-data-ai-analytics/preparation/data-understanding/) to read more about the details involve at each stage of the data understanding.
 
+## How will I use Data Understanding in my ML career
+Data Understanding allows data practitioners to build better ML models, communicate useful insights and help frame business questions. It is an important skill any data practitioner should have because of it many use cases like framing a good business question that can inform the next step in any data science project. It also help understand the problem with the data and inform how to fix such problem.
+
+## Why is it important to understand Data Understanding
+I go by the saying you can not prepare what you do not understand. If you do not know what the data entails and what kind of questions you want answers to you can't get the right answers and this will negatively affect any business. 
+
+## How Data Understaning help solve a problem
+Data Understanding help solve many different problems by providing answers to questions. Questions like what is the total size of sales data? What are the features present in the advertisement data. Are there missing values in any of the columns? What kind of business question can i answer with the employee records etc. The answers gotten from these questions can then inform the business about the decision to make, next step of action and many others.
+
+## Examples of how you probably use Data Understanding today
+Making decisions: Before you decide what to do and how to do it, you must have thought about the result/consequence of taking this step instead of that step.
+
+## What differentiate begineers from experts
+Ability to see features in a dataset and understand that the values in the features are not right or the feature could be used as a means to generate more features
+
 ### Data Understanding with Codes
 1. [Data Understaning 101](https://medium.com/analytics-vidhya/data-understanding-101-exploratory-data-analysis-using-python-2ad259d74a05): Here you get a hands on walkthrough of how to understand data.
 2. [A Beginner’s Guide to Data Analysis in Python](https://towardsdatascience.com/a-beginners-guide-to-data-analysis-in-python-188706df5447): A step by step guide to get started with data analysis in Python
