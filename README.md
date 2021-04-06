@@ -45,8 +45,15 @@ Data Understanding help solve many different problems by providing answers to qu
 ## Examples of how you probably use Data Understanding today
 Making decisions: Before you decide what to do and how to do it, you must have thought about the result/consequence of taking this step instead of that step.
 
-## What differentiate begineers from experts
-Ability to see features in a dataset and understand that the values in the features are not right or the feature could be used as a means to generate more features
+## What differentiate begineers from experts in this competency
+- **Begineers**
+  - can interpret feature definition from data description
+  - can transform categorical features to numerical
+
+- **Experts**
+  - can perform feature engineering on some features
+  - can interpret feature problems like why a feature has missing values and select best approach to deal with such problem
+  - can select important features for the model to perform best
 
 ### Data Understanding with Codes
 1. [Data Understaning 101](https://medium.com/analytics-vidhya/data-understanding-101-exploratory-data-analysis-using-python-2ad259d74a05): Here you get a hands on walkthrough of how to understand data.
